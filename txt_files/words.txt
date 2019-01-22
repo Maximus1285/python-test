@@ -1,0 +1,5 @@
+This is a simple text file
+It is primarily created for testing purposes
+So the whole idea here is keep on adding more and more lines
+Using as many words as possible, trying to include big words such as magnanimous, circumlocution, boondoggle, circumstances
+This is the end of file
