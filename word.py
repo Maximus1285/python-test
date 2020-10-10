@@ -2,7 +2,7 @@ import re
 import sys
 
 
-class Word():
+class Word:
 
     FILE_NOT_FOUND = 'The specified file name was not found\n\tEnding execution'
     EMPTY_FILE = 'The file did not include any words'
@@ -36,6 +36,7 @@ class Word():
             reversed_word = word[::-1]
             print(reversed_word)
             return (word, reversed_word)
+
 
 if __name__ == '__main__':
     Word(sys.argv[1]).process_largest_word()
